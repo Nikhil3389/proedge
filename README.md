@@ -30,3 +30,5 @@ Font Awesome - A popular icon set that provides scalable vector icons that can b
 React Router - A collection of navigational components that compose declaratively with your application.
 
 React Hook Form - A library for managing form state without the need for class components or global state management libraries.
+## link for live 
+https://647b90464e613a30456dbc74--benevolent-kelpie-06c668.netlify.app/
