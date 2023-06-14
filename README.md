@@ -31,4 +31,4 @@ React Router - A collection of navigational components that compose declarativel
 
 React Hook Form - A library for managing form state without the need for class components or global state management libraries.
 ## link for live 
-https://647b90464e613a30456dbc74--benevolent-kelpie-06c668.netlify.app/
+http://contact-app-nikhil.s3-website.ap-south-1.amazonaws.com/
